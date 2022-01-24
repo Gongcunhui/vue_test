@@ -1,22 +1,4 @@
-## 1 脚手架文件结构:
-node_modules
-public（不可改）
-    favicon.ico:页签图标（不可改）
-    index.html:主页面（不可改）
-src（不可改）
-    assets :存放静态资源（可改）
-    logo.png （可改）
-component:存放组件（可改）
-    school.vue
-    student.vue
-App.vue:汇总所有组件
-main.js:入口文件（可改）
-.gitignore: git版本管制忽略的配置
-babel.config.js: babel的配置文件 
-package.json:应用包配置文件
-README.md:应用描述文件
-package-lock.json:包版本控制文件
-vue.config.js:修改默认配置文件
+
 
 ## 2 关于不同版本的vue：
     1.vue .js与vue.runtime.[xxx].js的区别: 
