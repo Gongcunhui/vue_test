@@ -1,5 +1,4 @@
-
-
+1
 ## 2 关于不同版本的vue：
     1.vue .js与vue.runtime.[xxx].js的区别: 
         (1) vue.js是完整版的Vue,包含:核心功能+模板解析器。
